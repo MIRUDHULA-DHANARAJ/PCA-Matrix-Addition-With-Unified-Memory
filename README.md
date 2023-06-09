@@ -416,7 +416,7 @@ No API activities were profiled.
 ======== Error: Application received signal 139
 ```
 
-![Uploading image.png…]()
+
 
 
 ## Result:
