@@ -415,6 +415,7 @@ No API activities were profiled.
 ==10297== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.
 ======== Error: Application received signal 139
 ```
+
 ![Uploading image.png…]()
 
 
