@@ -416,6 +416,7 @@ No API activities were profiled.
 ======== Error: Application received signal 139
 ```
 
+![image](https://github.com/MIRUDHULA-DHANARAJ/PCA-Matrix-Addition-With-Unified-Memory/assets/94828147/6c154923-1283-42bd-b563-10369d98a68e)
 
 
 
